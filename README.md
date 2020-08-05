@@ -2,8 +2,7 @@
 
 ## Olá pessoal 👋
 
-<div align="center"> Sou estudande de Análise e Desenvolvimento de Sistemas e encontrei na tecnologia a possibilidade de ajudar às pessoas
-resolvendo seus problemas através da programação, esse é um sonho a ser conquistado.
+<div align="center"> Estou me graduando no curso de Análise e Desenvolvimento de Sistemas pela UCSal e venho estudando a stack Javascript: NodeJS + React + React Native. Após conhecer a Rocketseat me apaixonei por essas tecnologias, sendo possível através delas, entregar soluções web e mobile às pessoas.
 </div>
 
 <br/>
