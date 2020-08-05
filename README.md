@@ -11,12 +11,5 @@ resolvendo seus problemas através da programação, esse é um sonho a ser conq
   - Gosto de aprender coisas novas
   - Minha stack de aprendizado: ReactJS, Node.js, React Native & Typescript
   - Interesses: Fotografia, astronomia, alguns games e seriados no Netflix
-  - Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-SidneyMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidney-miranda/)](https://www.linkedin.com/in/sidney-miranda/) 
+  - [![Linkedin Badge](https://img.shields.io/badge/-SidneyMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidney-miranda/)](https://www.linkedin.com/in/sidney-miranda/) 
  
-
-<!--
-**sidneymiranda/sidneymiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 🌱 I’m currently learning NodeJs, React, React Native
