@@ -12,5 +12,8 @@
   - Gosto de aprender coisas novas
   - Minha stack de aprendizado: ReactJS, Node.js, React Native & Typescript
   - Interesses: Fotografia, astronomia, alguns games e seriados no Netflix
- <br/><br/> [![Linkedin Badge](https://img.shields.io/badge/-SidneyMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidney-miranda/)](https://www.linkedin.com/in/sidney-miranda/) 
+ <br/><br/> [![Linkedin Badge](https://img.shields.io/badge/-SidneyMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidney-miranda/)](https://www.linkedin.com/in/sidney-miranda/)
+ <a href="https://dev.to/sidneymiranda">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sidney Miranda's DEV Profile" height="30" width="30">
+</a>
  
