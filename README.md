@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-<div align="center"> Estou me graduando no curso de Análise e Desenvolvimento de Sistemas pela UCSal cuja base é o Java e em paralelo estudo a stack Javascript: NodeJS + React + React Native. Gosto muito do JS e me apaixonei por essas tecnologias.
+<div align="center"> Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela UCSal, que tem como linguagem base o Java, e em paralelo a isso, estudo a stack Javascript: React + Node + React Native.
 </div>
 
 <br/>
