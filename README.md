@@ -2,8 +2,7 @@
 
 ## Olá pessoal 👋
 
-<div align="center"> Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela UCSal, que tem como linguagem base o Java, e em paralelo a isso, estudo a stack Javascript: React + Node + React Native.
-</div>
+<div align="center"> Graduando em Análise e Desenvolvimento de Sistemas, atualmente estou focado em contrução de API REST utilizando Java com Spring Boot.</div>
 
 <br/>
   
