@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-<div align="center"> Graduando em Análise e Desenvolvimento de Sistemas, atualmente estou focado em contrução de API REST utilizando Java com Spring Boot.</div>
+<div align="center"> Graduando em Análise e Desenvolvimento de Sistemas, atualmente estou focado no desenvolvimento de API REST utilizando Java com Spring Boot.</div>
 
 <br/>
   
