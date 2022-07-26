@@ -1,18 +1,19 @@
-# Hi there - Welcome 🚀
+## Oi, sou o Sidney Miranda.
 
-- I’m currently learning Angular and Node.js
+- Graduado em Análise e Desenvolvimento de Sistemas
+- Atuo no back-end com Java
+- Estudando Arquitetura de Microsserviços e Cloud AWS
 
-# Public Information:
-- Name: Sidney Miranda
-- University: UCSAL (Analysis and Systems Development)
+<div align="center">
+  <a href="https://github.com/sidneymiranda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidneymiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneymiranda&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneymiranda&show_icons=true&locale=en&layout=compact&theme=dark)
+##
 
-## Social Media:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]                               [<img align="left" alt="codeSTACKr | Sidney Miranda DEV Profile" width="22" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][DEV]                                                                             
-   <br/>
-
-[instagram]: https://www.instagram.com/sidneymiiranda_
-[linkedin]: https://www.linkedin.com/in/sidney-miranda
-[DEV]: https://dev.to/sidneymiranda
+<div> 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:sidneysmiranda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sidney-miranda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
