@@ -1,8 +1,8 @@
 ## Oi, sou o Sidney Miranda.
 
 - Graduado em Análise e Desenvolvimento de Sistemas
-- Atuando no front-end com Angular e no back-end com Java
-- Estudando Arquitetura de Microsserviços e Cloud Computing
+- Atuando no back-end com Java, Spring Framework e a Azure Cloud
+
 
 <div align="center">
   <a href="https://github.com/sidneymiranda">
